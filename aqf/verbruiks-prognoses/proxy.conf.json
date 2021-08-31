@@ -1,0 +1,9 @@
+{
+  "/api": {
+    "target": "https://aquaflanders-base-api.azurewebsites.net",
+    "secure": true,
+    "changeOrigin": true,
+    "pathRewrite": { "^/api": "" }
+  }
+}
+ 
